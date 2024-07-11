@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Rent Hobby Garden Project**
+- 🔭 I’m currently working on **Design Pattern and Software Architecture**
 
 - 🌱 I’m currently learning **.Net Core**
 
